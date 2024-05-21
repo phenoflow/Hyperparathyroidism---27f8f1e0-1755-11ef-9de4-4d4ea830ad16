@@ -1,0 +1,24 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-hyperparathyroidism---primary.py
+inputModule3:
+  class: File
+  path: python/primary-hyperparathyroidism---primary.py
+inputModule4:
+  class: File
+  path: python/hyperparathyroidism---primary.py
+inputModule5:
+  class: File
+  path: python/hyperparathyroidism-cystica---primary.py
+inputModule6:
+  class: File
+  path: python/secondary-hyperparathyroidism---primary.py
+inputModule7:
+  class: File
+  path: python/hyperparathyroidism-recklinghausens---primary.py
+inputModule8:
+  class: File
+  path: python/output-cases.py
